@@ -14,16 +14,14 @@
 
 > 💫 **Data Science Student & Research Intern**  
 > 🎓 B.Tech Final Year @ PES University, EC Campus, Bangalore  
-> 🔬 Passionate about Machine Learning, Medical AI & Dark Web Analytics  
+> 🔬 Passionate about Data science and analytics, Machine Learning, & AI  
 > 📊 Currently building ML projects & seeking opportunities  
-> ✨ Fun fact: I love finding stories hidden in data!  
-
-**"Thanks for visiting my profile! Let's connect and build something amazing together!"**
+> ✨ Fun fact: I love finding stories hidden in data!
 
 ## 🚀 Current Goals
 
 🎯 **Seeking**: Data Science Internships & Entry-level opportunities  
-🌱 **Learning**: Advanced ML algorithms & Deep Learning for Medical AI  
+🌱 **Learning**: Advanced ML algorithms & Deep Learning , AI  
 💡 **Building**: Data analysis projects & predictive models  
 🤝 **Open to**: Collaborate on Data Science & ML projects  
 
@@ -69,7 +67,6 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bindupes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,prs,followers"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindupes&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -159,22 +156,6 @@
 
 ---
 
-## 📈 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bindupes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs,followers"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindupes&layout=compact&theme=radical&langs_count=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindupes&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 📞 Let's Connect!
 
 <p align="center">
@@ -195,7 +176,7 @@
 
 - 🔍 **Data Science Internships** in healthcare, fintech, or cybersecurity
 - 💻 **Entry-level ML Engineer positions**
-- 🤝 **Research collaborations** in medical AI
+- 🤝 **Research collaborations** in data science & AI/ML
 - 📚 **Open-source contributions** in data science projects
 
 ---
