@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bindushree!;Data+Science+Enthusiast;Machine+Learning+Explorer;Telling+stories+with+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+PT+Bindushree!;Data+Science+Enthusiast;Machine+Learning+Explorer;Telling+stories+with+data" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,10 +15,10 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Bindushree"
-        self.role = "Data Science Student"
-        self.education = "B.Tech Final Year @ PES University, Bangalore"
-        self.interests = ["Data Science", "Machine Learning", "Data Analysis"]
+        self.name = "PT Bindushree"
+        self.role = "Data Science Student & Research Intern"
+        self.education = "B.Tech Final Year @ PES University, EC Campus, Bangalore"
+        self.interests = ["Data Science", "Machine Learning", "Medical AI", "Dark Web Analytics"]
         self.current_focus = "Building ML projects & seeking opportunities"
         self.fun_fact = "I love finding stories hidden in data 📊"
     
@@ -32,49 +32,45 @@ me.say_hi()
 ## 🚀 Current Goals
 
 🎯 **Seeking**: Data Science Internships & Entry-level opportunities  
-🌱 **Learning**: Advanced ML algorithms & Deep Learning  
+🌱 **Learning**: Advanced ML algorithms & Deep Learning for Medical AI  
 💡 **Building**: Data analysis projects & predictive models  
-🤝 **Open to**: Collaborate on Data Science projects  
+🤝 **Open to**: Collaborate on Data Science & ML projects  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages
+### 💻 Programming & Querying
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
-
-### 📊 Data Science & ML
-<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 📊 Visualization Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🧰 Development Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
@@ -104,7 +100,7 @@ me.say_hi()
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Areas of Expertise
 
 <table>
 <tr>
@@ -112,9 +108,9 @@ me.say_hi()
 
 ### 🤖 Machine Learning
 - Supervised & Unsupervised Learning
-- Feature Engineering
-- Model Evaluation & Optimization
-- Ensemble Methods
+- Deep Learning (CNN, DenseNet)
+- Medical AI Applications
+- Model Optimization
 
 </td>
 <td valign="top" width="33%">
@@ -122,17 +118,17 @@ me.say_hi()
 ### 📊 Data Analysis
 - Exploratory Data Analysis
 - Statistical Analysis
-- Data Visualization
+- Data Cleaning & Preprocessing
 - Business Intelligence
 
 </td>
 <td valign="top" width="33%">
 
-### 🧠 Deep Learning
-- Neural Networks
+### 🧠 Specialized Skills
 - Natural Language Processing
 - Computer Vision
-- Time Series Analysis
+- Dark Web Analytics
+- Healthcare Data Science
 
 </td>
 </tr>
@@ -140,32 +136,51 @@ me.say_hi()
 
 ---
 
-## 💼 What I'm Looking For
+## 💼 Experience
 
-- 🔍 **Internship opportunities** in Data Science/Analytics
-- 💻 **Entry-level positions** in ML/AI
-- 🤝 **Collaboration** on open-source data science projects
-- 📚 **Learning opportunities** in advanced ML techniques
-
----
-
-## 📝 Recent Projects
-
-Here are some of my notable projects (feel free to explore my repositories):
-
-- 📈 **Sales Analytics Dashboard** - Interactive visualization using Tableau
-- 🏠 **House Price Prediction** - ML model using Python & Scikit-learn
-- 📊 **Customer Segmentation** - Clustering analysis with K-means
-- 🎬 **Movie Recommendation System** - Collaborative filtering approach
+### 🔬 Research Intern | cHEAL Research Center, PES University
+**June 2025 - July 2025**
+- Developed DenseNet CNN models for automated anemia detection from blood smear images
+- Integrated VQA system for diagnostic feedback
+- Executed data preprocessing, model evaluation, and medical research visualization
 
 ---
 
-## 📚 Latest Blog Posts
+## 🚀 Featured Projects
 
-<!-- Replace with your actual Medium articles -->
-- [Understanding Data Science Fundamentals](https://medium.com/@anand.shaw7000)
-- [Machine Learning for Beginners](https://medium.com/@anand.shaw7000)
-- [Data Visualization Best Practices](https://medium.com/@anand.shaw7000)
+### 🕵️ Vendor Behavior Analysis - Dark Web Marketplaces
+**Capstone Project | Dec 2024 - Present**
+- Analyzed vendor behavior across multiple dark web marketplaces (Kerberos, Archetype, Bohemia, Elysium)
+- Built data scraping pipeline and identity mapping system using Python, NLP & ML
+- Applied unsupervised learning to detect multi-account vendors and hidden activity patterns
+
+### 🩸 ML-based Anemia Detection System
+**June 2025 - July 2025** | [View Project](https://github.com/bindupes/cHEAL.git)
+- Built DenseNet121 CNN model achieving **89% accuracy** for anemia detection from RBC smear images
+- Integrated VQA module for diagnostic insights
+- Developed Streamlit app for real-time medical image analysis
+
+### 🤖 Lifestyle AI Assistant
+**Mar 2024** | [View Project](https://github.com/bindupes/Lifestyle-AI-assistant)
+- Developed ML models (regression, decision tree, random forest) achieving **85% accuracy**
+- Built NLP-based Chatbase chatbot for personalized wellness and financial advice
+- Boosted user engagement by **30%** through intelligent recommendations
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bindupes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Bindushree's%20GitHub%20Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindupes&layout=compact&theme=radical&langs_count=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindupes&theme=radical" alt="GitHub Streak"/>
+</div>
 
 ---
 
@@ -178,23 +193,29 @@ Here are some of my notable projects (feel free to explore my repositories):
   <a href="mailto:17bindu2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/" target="_blank">
+  <a href="https://www.kaggle.com/bindusds" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@anand.shaw7000" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 💡 What I'm Looking For
+
+- 🔍 **Data Science Internships** in healthcare, fintech, or cybersecurity
+- 💻 **Entry-level ML Engineer positions**
+- 🤝 **Research collaborations** in medical AI
+- 📚 **Open-source contributions** in data science projects
+
+---
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
 
 <div align="center">
   
-### ☕ Fun Fact: I prefer Tea over Coffee! 🍵
+### 📊 Fun Fact: I love finding stories hidden in data!
 
 *"In God we trust, all others must bring data."* - W. Edwards Deming
 
